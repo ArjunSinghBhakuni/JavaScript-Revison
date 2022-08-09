@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server":"nodemon string.js"
+    "server": "nodemon string_3"
+    
   },
   "keywords": [],
   "author": "",
@@ -13,4 +14,5 @@
   "dependencies": {
     "nodemon": "^2.0.19"
   }
+ 
 }
