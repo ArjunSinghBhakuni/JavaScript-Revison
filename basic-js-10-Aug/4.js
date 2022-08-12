@@ -23,3 +23,12 @@ console.log(myNumber)
 
 
 // boolean & comparison operator
+
+// == only value will check
+// === value and data type will check
+
+// not equal to 
+// !=  
+console.log(7 != "7")
+// !== 
+console.log(7!=="7")
