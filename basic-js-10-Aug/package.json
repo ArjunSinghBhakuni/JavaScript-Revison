@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon Switch_7.js"
+    "server": "nodemon while_8.js"
     
   },
   "keywords": [],
