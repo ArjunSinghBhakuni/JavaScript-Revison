@@ -16,3 +16,13 @@ console.log(i)
 // sum of n natural number
 
  (n*(n+1))/2 // it take constant  time
+
+
+ // do while 
+ // first do task then check the case
+ // video 2.40
+ 
+ do{
+console.log(i);
+i++
+ }while(i<=9)
