@@ -13,12 +13,12 @@ let person ={
 }
 console.log(person)
 // how to access the data
-
+     
 console.log(person.name)
 
 // how to add key value pair
 
 person.gender = "male"
 
-// difference between brakect and dot notation
+// difference between brakect and dot notation 
 // with dot notation we can not access space key
