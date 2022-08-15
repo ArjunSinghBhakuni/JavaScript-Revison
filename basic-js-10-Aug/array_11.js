@@ -40,3 +40,31 @@ fruits.unshift("papaya")
 // delete element in starting
 let removed =fruits.shift()
 console.log(removed)
+
+
+// for of loop in a array
+
+for(let fruit of fruits){
+ console.log(fruit.toUpperCase())
+}
+
+// for in loop in a array
+
+for(let index in fruits){
+ console.log(index)
+}
+
+
+// array destructing 
+
+const [f1,f2,f3] = fruits
+console.log(f1,f2,f3)
+
+// for skiping the elements
+const [v1,,v2] = fruits
+console.log(v1,v2)
+
+// for making new array
+
+const [b1, ...mynewArray] = fruits
+console.log(mynewArray)
